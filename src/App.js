@@ -1,6 +1,10 @@
+import Header from "./components/Header"
+
 const App = () => {
   return (
-    <div>R1 Web Works</div>
+    <>
+      <Header />
+    </>
   )
 }
 export default App
